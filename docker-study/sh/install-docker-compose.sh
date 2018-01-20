@@ -1,6 +1,6 @@
 #!/bin.sh
 
-DOCKER_COMPOSE_VERSION=1.11.0
+DOCKER_COMPOSE_VERSION=1.3.0
 
 # Download docker-compose to the permanent storage
 echo 'Downloading docker-compose to the permanent VM storage...'
